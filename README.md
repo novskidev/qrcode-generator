@@ -1,4 +1,4 @@
-Berikut ini adalah contoh README untuk proyek QR Code Generator menggunakan Vite dan Tailwind CSS:
+
 
 ```
 # QR Code Generator
